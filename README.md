@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project uses Apache Airflow, Docker, and various APIs to build an ETL pipeline for analyzing soccer stadium data. The pipeline extracts data from Wikipedia, processes it, and stores it in Azure Storage, then visualizes it using Tableau.
+This project uses Apache Airflow, Docker, and various APIs to build an ETL pipeline for analyzing soccer stadium data. The pipeline extracts data from Wikipedia, processes it, and stores it in Azure Storage, to be visualizable on Tableau.
 
 ## Prerequisites
 
